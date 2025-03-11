@@ -15,8 +15,8 @@ SenseConnect is an **advanced AI-driven platform** that transforms communication
 💻 **Frontend:** Developed using **React.js** for an intuitive, responsive interface.  
 🖥 **Backend:** Powered by **Node.js and Express.js**, ensuring **robust and scalable** architecture.  
 🗄 **Database:** Utilizes **MongoDB** for structured and efficient data management.  
-🧠 **AI & ML Models:** Built on **TensorFlow/PyTorch** for accurate gesture and language processing.  
-☁ **Cloud Services:** Integrated with **Firebase/AWS** for **secure hosting, storage, and real-time synchronization**.
+🧠 **AI & ML Models:** Built on **TensorFlow** for accurate gesture and language processing.  
+☁ **Cloud Services:** Integrated with **Firebase** for **secure hosting, storage, and real-time synchronization**.
 
 ## 📸 Demonstration
 
