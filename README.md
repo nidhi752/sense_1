@@ -32,10 +32,10 @@ Exploring **real-time translation** for seamless virtual meetings.
 
 ## 📸 Screenshots
 
-![Screenshot 1](./1(1).png)  
-![Screenshot 2](./1(2).png)  
-![Screenshot 3](./1(3).png)  
-![Screenshot 4](./1(4).png)  
+![Screenshot 1](1(1).png)  
+![Screenshot 2](1(2).png)  
+![Screenshot 3](1(3).png)  
+![Screenshot 4](1(4).png)  
 
 ## 🚀 Installation & Setup
 
